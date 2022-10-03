@@ -1,6 +1,7 @@
-# hacking_fb
-$git clone github.com/MrxTool/hacking_fb
+# Command:
 
-$cd hacking_fb
+* $git clone https://github.com/MrxTool/hacking_fb
 
-$python hack_.py
+* cd hacking_fb
+
+* Python hack_.py
